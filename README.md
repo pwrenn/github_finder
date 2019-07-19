@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a React app that searches Github users via the Users API, lists them in a grid format on componentDidMount, then searches users by username, name or bio. You can also view details about each user. 
+
 ## Available Scripts
 
 In the project directory, you can run:
